@@ -14,4 +14,4 @@ Do not pass the `raw_directory` to students. It contains the markdown files inst
 
 ## Questions?
 
-In case of questions of something not working write to jtkaczuk@ethz.ch.
+In case of questions or something not working, write to jtkaczuk@ethz.ch.
