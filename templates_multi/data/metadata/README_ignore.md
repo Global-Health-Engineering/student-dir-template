@@ -62,7 +62,7 @@ List all files (or folders, as appropriate for dataset organization) contained i
 
 3. Additional related data collected that was not included in the current data package: 
 
-4. Are there multiple versions of the dataset? yes/no
+4. Are there multiple versions of the files? yes/no
 	A. If yes, name of file(s) that was updated: 
 		i. Why was the file updated? 
 		ii. When was the file updated? 
