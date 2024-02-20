@@ -17,35 +17,47 @@ Students are free to use any other programming language for data analysis (SQL, 
 The repository has the following directory tree:
 
     .
-    ├── README.pdf
+    ├── README.md
     ├── analysis
-    │    └── README.pdf
+    │   └── README.md
     ├── data
-    │    ├── README.pdf
-    │    ├── derived_data
-    │    │    └── README.pdf
-    │    ├── metadata
-    │    │    ├── README.pdf
-    │    │    └── codebook.csv
-    │    └── raw_data
-    │         └── README.pdf
+    │   ├── README.md
+    │   ├── derived_data
+    │   │   └── README.md
+    │   ├── dictionary_template.csv
+    │   ├── metadata
+    │   │   ├── README.md
+    │   │   └── codebook.csv
+    │   └── raw_data
+    │       └── README.md
     ├── docs
-    │    ├── README.pdf
-    │    ├── report
-    │    │    ├── GHE_style_guide_LaTeX.pdf
-    │    │    ├── GHE_style_guide_LaTeX.zip
-    │    │    ├── GHE_style_guide_Word.docx
-    │    │    └── README.pdf
-    │    └── slides
-    │         └── README.pdf
+    │   ├── README.md
+    │   ├── reports
+    │   │   ├── GHE_style_guide_LaTeX.pdf
+    │   │   ├── GHE_style_guide_LaTeX.zip
+    │   │   ├── GHE_style_guide_Word.docx
+    │   │   ├── Proposal_template.docx
+    │   │   └── README.md
+    │   └── slides
+    │       ├── GHE_presentation_template.pptx
+    │       └── README.md
     ├── grading
-    │     └── README.pdf
-    └── media
-         ├── README.pdf
-         ├── photo
-         │    └── README.pdf
-         └── video
-              └── README.pdf
+    │   └── README.md
+    ├── hardware
+    │   ├── README.md
+    │   ├── design
+    │   │   └── README.md
+    │   └── testing
+    │       └── README.md
+    ├── media
+    │   ├── README.md
+    │   ├── photo
+    │   │   └── README.md
+    │   └── video
+    │       └── README.md
+    ├── src
+    │   └── README.md
+    └── tree.txt
 
 | name         | description                                                                                                                                                                                                                        |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,4 +66,6 @@ The repository has the following directory tree:
 | data         | Data directory with sub-directories (raw_data, derived_data, metadata). This directory and its all sub-directories contain README.md files with instructions and information about their content.                                  |
 | docs         | Directory for documents that are generated as part of the project. Two sub-folders (report and slides) provide templates and structure for including the manuscript and the presentations prepared over the course of the project. |
 | grading      | Directory containing template for grading the project and the student. Supervisors need to ensure that students are aware of this grading rubric prior to starting their work with the GHE group.                                  |
+| hardware     | Directory containing hardware design, calculations and documentation as well as testing documentation as a product of the project.                                                                                                 |
 | media        | Directory for storing media related to the project (divided into photo and video sub-directories).                                                                                                                                 |
+| src          | Directory for software development (not analysis files)                                                                                                                                                                     |
