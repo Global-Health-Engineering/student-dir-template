@@ -21,7 +21,7 @@ Within the GHE group, we have experience in using R, STATA, and Python. Students
 
 # Student proposal template
 
-At the end of your stay with us, you will be asked to prepare a proposal and discuss it with prof. Tilley.  
+At the beginning of your stay with us, you will be asked to prepare a proposal and discuss it with prof. Tilley.  
 `Proposal_template.docx` contains the necessary information to make the process of writing easier for you. Please go through it.
 
 # Final manuscript templates and style guides
